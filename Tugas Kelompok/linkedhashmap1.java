@@ -7,8 +7,8 @@ public class linkedhashmap1 {
 
     public static void main(String[] args) {
         String name[] = {
-            new String("Sang"),
-               new String("Shin"),
+             new String("Sang"),
+             new String("Shin"),
              new String("Boston"),
              new String("Passion"),
              new String("Shin")
