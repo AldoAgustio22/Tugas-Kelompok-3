@@ -6,8 +6,8 @@ public class hashmap2 {
         HashMap<Integer, String> days = new HashMap<Integer,String>();
 
         // mengisi value ke objek key
-    days.put(1, "Minggu");
-    days.put(2, "Senin");
+          days.put(1, "Minggu");
+          days.put(2, "Senin");
 	  days.put(3, "Selasa");
 	  days.put(4, "Rabu");
 	  days.put(5, "Kamis");
